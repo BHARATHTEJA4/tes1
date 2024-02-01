@@ -9,7 +9,7 @@ from threading import *
 root = Tk()
 
 # Set geometry
-root.geometry("400x800")
+root.geometry("400x1200")
 
 # Use Threading
 def Threading():
